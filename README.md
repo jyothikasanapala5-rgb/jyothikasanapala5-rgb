@@ -21,16 +21,5 @@ A passionate **Developer** interested in building web applications and exploring
 
 ### 📊 GitHub Stats
 ![Jyothika's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyothikasanapala5-rgb&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyothikasanapala5-rgb&layout=compact&theme=dark)
-<!--
-**jyothikasanapala5-rgb/jyothikasanapala5-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyothikasanapala5-rgb&layout=compact&theme=dar
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Ho
--->
