@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Jyothika Sanapala 👋
 
 A passionate **Developer** interested in building web applications and exploring open-source projects.
